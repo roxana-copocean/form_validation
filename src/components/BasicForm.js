@@ -1,12 +1,5 @@
 import useInput from '../hooks/use-input';
 
-// 	value: enteredValue,
-//	isValid: valueIsValid,
-//	hasError: hasError,
-//	valueChangeHandler,
-//	inputBlurHandler,
-//	reset
-
 function BasicForm(props) {
 	// First Name
 	const {
